@@ -1,0 +1,6 @@
+framework module Pods_GoogleCalendarQuickstartAppUITests {
+  umbrella header "Pods-GoogleCalendarQuickstartAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
